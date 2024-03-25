@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam-456&label=Profile%20views&color=0e75b6&style=flat" alt="aslam-456" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning & Data Engineering Projects**
+- 🔭 I'm tackling with **Machine Learning & Data Engineering Projects**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 Latest Expansion to my knowledge base : **Neural Networks**
 
 - 📫 How to reach me **mimohamedaslam456@gmail.com**
 
