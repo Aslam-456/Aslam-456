@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mimohamedaslam456@gmail.com**
 
-- ⚡ Fun facts **aren't usually funnny 😐**
+- ⚡ Fun facts **aren't usually funny 😐**
 
 <p align="left">
 </p>
